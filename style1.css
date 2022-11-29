@@ -1,0 +1,303 @@
+.body
+{
+ background-color: indigo;
+
+}
+.hd
+{
+  background: linear-gradient(to right, #ff66ff 3%, #6666ff 96%);
+
+}
+hr{
+  width: 200px;
+  background-color: #108178;
+  margin: 15px auto;
+  height: 2px !important;
+}
+.CODE{
+  margin: 8px auto;
+  font-size: 1rem;
+  text-align: center;
+}
+.navbar-brand
+{
+  font-family: 'Game Of Squids';
+  font-weight: normal;
+}
+.idea
+{
+color: white;
+
+}
+.bottom
+{
+  background: linear-gradient(to right, #ff66ff 3%, #6666ff 96%);
+}
+ .content
+{
+  color: indigo;
+  text-align: center;
+  padding: 10px 14px;
+  font-family: verdana;
+  font-weight: 50;
+  font-size:1cm;
+  text-shadow: 1px 1px 1px #919191, 1px 2px 1px #919191, 1px 3px 1px #919191, 1px 4px 1px #919191,;
+}
+.owner
+{
+  padding-top: 20px;
+margin-left:25%;
+  text-align: center;
+    margin: 8px auto;
+}
+.b1{
+
+}
+.fc
+{
+margin: 3%;
+margin-left:25%;
+}
+.card-body{
+  position:   relative;
+  z-index: 1;
+  transition: 0.5s;
+
+}
+
+.icon
+{
+  color: #ffff;
+  position: relative;
+  width: 30px;
+  height: 25px;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+margin: 0 auto;
+border-radius: 50%;
+font-size: 20px;
+transition: 1s;
+}
+.icon:nth-child(1){
+  box-shadow: 0  0 0 0 #e91e63;
+  background: #e91e63;
+}
+.icon:nth-child(1):hover{
+  box-shadow: 0  10px 0 144px #e91e63;
+
+}
+
+.icon:nth-child(2){
+  box-shadow: 0 0px 0 0 #23e629;
+  background: #23e629;
+
+}
+.icon:nth-child(2):hover{
+  box-shadow: 0  10px 0 144px #23e629;
+  font-color: white;
+
+}
+.icon2
+{
+  color: #ffff;
+  position: relative;
+  width: 30px;
+  height: 25px;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+margin: 0 auto;
+border-radius: 50%;
+font-size: 20px;
+transition: 1s;
+font-size: 25px;
+color: black;
+}
+.icon2:nth-child(1){
+  box-shadow: 0 0px 0 0 #2196f3;
+  background: #2196f3;
+}
+.icon2:nth-child(1):hover{
+  box-shadow: 0  10px 0 144px #2196f3;
+  color: white;
+
+}
+.card1
+{
+  width: 50%;
+}
+.card2
+{
+  width: 50%;
+
+}
+.box{
+  width:60%;
+  border-radius:5%;
+}.card-name{
+  font-family: 'Poppins', sans-serif;
+
+}
+.card1-img{
+  margin: 100px auto;
+  width: 40%;
+}
+.card1-img2{
+ padding-left: 30px;
+}
+.card1-img2:hover{
+  background-color: pink ;
+}
+.oi
+{
+  background-color:#F7F7F7;
+  padding-right:8%;
+  padding-top:17px;
+  margin-bottom: 30px;
+width: 50%;
+
+}
+.box1{
+  margin: 100px auto;
+  width:69%;
+  background-color: ;
+color: white;
+  border-radius:10%;
+}
+.place
+{
+margin-bottom: 20px;
+width:300px ;
+border-radius: 5%;
+heigh:5px;
+}
+
+.Achive{
+margin-bottom: 20px;
+width:300px ;
+  border-radius: 5%;
+heigh:5px;
+}
+.Achive:hover
+{
+  color:blue;
+}
+.Branch{
+
+  margin-bottom: 20px;
+  width:300px ;
+  border-radius: 5%;
+  heigh:5px;
+  position: relative;
+  z-index: 5;
+  transition: 0.5s;
+}
+.Branch:hover
+{
+  color: red;
+
+}
+
+.jk
+{
+
+shadow:3px;
+border-radius: 9px;
+overflow: hidden;
+}
+.place{
+position: relative;
+z-index: 1;
+transition: 0.5s;
+}
+.place:hover
+{
+  color: indigo;
+}
+.read{
+  display: inline-block;
+  padding: 5px 18px;
+  border-radius: 4px;
+  text-decoration: none;
+
+  font-weight: 500;/
+  margin-top: 3px;
+}
+
+.para
+{font-family : serif;
+  font-size: .9rem;
+  text-align: right;
+  margin: 0 auto;
+  color: white;
+}
+.bottom
+{
+
+  color: black;
+  border-radius: 8px;
+}
+.counter{
+  content: "";
+ display: table;
+ clear: both;
+}
+.sc
+{  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #444;
+  color: white;
+}
+.scfa
+{
+  font-size:50px;
+}
+.section2
+{
+  background-color:  #016064;
+  color: white;
+}
+.a1{
+  color: white;
+}
+.slidebottom{
+  color: black;
+align-items: baseline;
+}
+.call
+{
+  margin-top: 50px;
+}
+.collage{
+  font-size: 1rem;
+padding-top: 16px;
+  color: black;
+}
+#last
+{
+  padding-top:25px;
+  background-color: #9FB4FF;
+
+}
+.mm
+{
+  width: 100%;
+height: 30%;
+}
+#last a
+{
+color: white;
+line-height: 30px;
+
+font-size: 1.3rem;
+text-decoration: none;
+}
+#last a:hover{
+  color: #790252;
+}
+#last h5
+{ padding-left: 8%;
+  color: blue;
+}
